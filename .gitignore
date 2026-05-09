@@ -1,0 +1,8 @@
+data/
+submissions/
+*.csv
+*.pkl
+*.cbm
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
